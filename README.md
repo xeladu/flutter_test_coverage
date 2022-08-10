@@ -7,6 +7,8 @@ The repository contains a working Flutter app with some simple test cases to sho
 💕[Review Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters&ssr=false#review-details)
 💕[Review Flutter Coverage](https://marketplace.visualstudio.com/items?itemName=Flutterando.flutter-coverage&ssr=false#review-details)
 
+If you want to learn more about testing with Flutter apps, check out [my article series on Medium](https://xeladu.medium.com/list/test-your-flutter-app-aabad9825b7f).
+
 # Support
 
 If you like this post or my work in general, feel free to support me in any way ❤
