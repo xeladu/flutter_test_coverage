@@ -1,4 +1,7 @@
-This repo contains files that are part of the post at [Show Test Coverage of a Flutter app in Visual Studio Code - xeladu.medium.com](https://xeladu.medium.com/show-test-coverage-of-a-flutter-app-in-visual-studio-code-7e26c3b94aaf).
+# Sources
+
+[Show Test Coverage of a Flutter app in Visual Studio Code on QuickCoder](https://quickcoder.org/flutter-test-coverage/)<br />
+[Show Test Coverage of a Flutter app in Visual Studio Code on Medium](https://xeladu.medium.com/show-test-coverage-of-a-flutter-app-in-visual-studio-code-7e26c3b94aaf)
 
 If you want to dive deep into testing Flutter applications, check out 📙 [my free ebook](https://xeladu.gumroad.com/l/ftg) with many more details!
 
